@@ -1,0 +1,28 @@
+name: 'warriorwellness '
+favicon: null
+layout_spectrum: 0.487244876800105
+typography_spectrum: 0.5882398255635053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7953690278809518
+  lightness: 0.8573253024369478
+  saturation: 0.9399128567893058
+  rhythmicContrast: 0.23070883471518755
+purpose: []
